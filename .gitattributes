@@ -1,5 +1,5 @@
 * text=auto
 
-*.js linguist-language=angular
-*.css linguist-language=angular
-*.html linguist-language=angular
+*.js linguist-language=Angular
+*.css linguist-language=Angular
+*.html linguist-language=Angular
